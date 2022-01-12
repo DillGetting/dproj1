@@ -1,0 +1,29 @@
+.class {
+
+}
+
+
+#id {
+
+}
+
+
+.flexContainer {
+    display: flex;
+
+    background: bisque;
+}
+
+.left {
+    flex: 1;
+    background: green;
+}
+
+.right {
+    flex: 1;
+    background: red;
+}
+
+table, th, td {
+    border:2px solid black;
+}
